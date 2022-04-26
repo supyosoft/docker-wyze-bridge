@@ -1,2 +1,3 @@
 name: docker-wyze-bridge
-url: https://github.com/supyosoft/docker-wyze-bridge
+url: https://github.com/supyosoft/docker-wyze-bridge.git
+maintainer: yo
